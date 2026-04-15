@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on an internship.
 - 📫 How to reach me dianagliga11@gmail.com or 0754632210 (SMS only)
 - 🌐 LinkedIn: https://www.linkedin.com/in/diana-adelina-gliga-21a9a12a2/
-- 👩🏻‍💻 Programming languages: Java, C++, Python, SQL, C#, C, Dart
-- 📱 Apps: Unity, Canva
+- 👩🏻‍💻 Programming languages: Java, C++, Python, SQL, C#, C, Dart, CSS, HTML, JavaScript, Kotlin
+- 🧰 Tools: Postman, Git/GitHub, Gradle, Maven, Docker, Firebase, Figma,
+- 🚀 Methodologies: Agile/Scrum
 - ⚡ Fun fact: I used to hate programming, but now I'm addicted :)
