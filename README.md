@@ -34,9 +34,10 @@
   Tech: Godot Engine 4.x, GDScript, JSON, Git/GitHub
   My role: Designed and built the JSON-based data layer for game questions and level configurations, driving difficulty progression and dynamic scene management across all 12 games; Supported the Scrum Master in coordinating the team of 10.
 
-- 🏊 [**Swimming Contest**](https://github.com/DianaGliga11/Swimming-contest)  
-  Java application for managing a swimming contest.  
-  *Tech:* Java, [add: JavaFX / Spring / JDBC / Hibernate, etc.]
+- 🏊 Swimming Contest – Competition Management System
+  Multi-client application for managing swimming competitions, participants, events and registrations, with real-time notifications and client-server communication.
+  Tech: Java, JavaFX, Dart, Flutter, REST, WebSockets, JSON, Protocol Buffers, Gradle, SQLite
+  My role: Full-stack developer: Java/JavaFX and Flutter client development, service and repository layers, networking, REST APIs, WebSocket notifications, database integration and data serialization.
 
 ---
 
