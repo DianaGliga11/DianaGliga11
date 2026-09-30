@@ -20,6 +20,7 @@
 
 ## 🚀 Projects
 - 📖 [**Bookish - Mobile Tracking App - Bachelor's Thesis at Babes-Bolyai University](https://github.com/DianaGliga11/Bookish)
+
   A modern Android mobile application designed to help readers organize, track, and improve their reading activity. Bookish combines personal book tracking, reading challenges, reviews, social interaction, and AI-assisted book discovery in a single application.
   Tech: Android, Kotlin, Jetpack Compose, MVVM Architecture, Firestore services, Gemini 2.5 Flash
   My role: Fully developed the entire mobile application, based on the MVVM architecture and android principles.
