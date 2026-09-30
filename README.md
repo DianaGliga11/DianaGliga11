@@ -3,7 +3,7 @@
 🎓 [Bachelor's Degree in Mathemathics and Computer Science / Babes-Bolyai University] 
 🎓 [Master at High Performance Calculus and Big Data Analysis / Babes-Bolyai University, first year]  
 💻 Passionate about **software development, clean code and machine learning impact**  
-🔎 **Looking for a Software Development internship**
+🔎 **Looking for a Software Development job oportunity**
 🌱 Currently learning: [e.g. Big Data / Machine Learning / Cloud]  
 ⚡ Fun fact: I used to hate programming, now I'm addicted :)
 
@@ -34,7 +34,7 @@
   Tech: Godot Engine 4.x, GDScript, JSON, Git/GitHub
   My role: Designed and built the JSON-based data layer for game questions and level configurations, driving difficulty progression and dynamic scene management across all 12 games; Supported the Scrum Master in coordinating the team of 10.
 
-- 🏊 Swimming Contest – Competition Management System
+- 🏊 [**Swimming Contest – Competition Management System**](https://github.com/DianaGliga11/Swimming-contest)
   Multi-client application for managing swimming competitions, participants, events and registrations, with real-time notifications and client-server communication.
   Tech: Java, JavaFX, Dart, Flutter, REST, WebSockets, JSON, Protocol Buffers, Gradle, SQLite
   My role: Full-stack developer: Java/JavaFX and Flutter client development, service and repository layers, networking, REST APIs, WebSocket notifications, database integration and data serialization.
